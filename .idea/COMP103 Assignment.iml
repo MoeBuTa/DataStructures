@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 1/Brick" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 1/SlideShow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 1/Sokoban" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 1/Vocabulary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 1/Vocabulary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 2/Genealogy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 2/MoleculeRenderer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/Bubbles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/EmergencyRoom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/FractalLine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/MedicalCentre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/MineSweeper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/Mode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/PaintPot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/RecStats" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/Sierpinski" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 3/sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 4/AnimalGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 4/MeasuringQueues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 5/GeneSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 5/OrganisationChart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 6/CPNCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 6/ExpressionCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 6/LispExpressionCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 6/MazeSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source code/Assignment 6/Permutations" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="lib (2)" level="project" />
+    <orderEntry type="library" name="lib (3)" level="project" />
+  </component>
+</module>
