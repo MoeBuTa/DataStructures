@@ -1,2 +1,2 @@
 # VUW-COMP103
-Interesting assignments I did back in 2018 in VUW.
+VUW assignments of the Introduction to Data Structures and Algorithms unit.
